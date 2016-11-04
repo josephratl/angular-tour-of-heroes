@@ -8,6 +8,9 @@
 /node_modules
 /bower_components
 
+# design
+/design
+
 # IDEs and editors
 /.idea
 /.vscode
